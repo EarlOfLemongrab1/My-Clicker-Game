@@ -1,2 +1,4 @@
-# Groupe de chitti_a 934871
+### Hey there
+
+Just a quick clicker game for your bored days
 
